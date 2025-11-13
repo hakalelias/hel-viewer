@@ -1,0 +1,12 @@
+{
+  "useWorldTerrain": true,
+  "ionAssetId": 4076658,
+  "startView": {
+    "longitude": 24.9384,
+    "latitude": 60.1699,
+    "height": 3000,
+    "heading": 0,
+    "pitch": -35,
+    "roll": 0
+  }
+}
